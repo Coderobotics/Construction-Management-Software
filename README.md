@@ -5,6 +5,8 @@ Construction Management is a challenging field, and with expectations increasing
 
 This construction ERP software is made to simplify the implementation of Construction System and its activities, with the aim of achieving optimal performance of your Construction ERP which involves submitting requests, managing project budgets and handling day to day operations. With over 6 different modules implemented using responsive construction layout and project management tools. Construction ERP is developed in latest tools and technologies to facilitate complete lifecycle development and provide paper-free management of your Construction project. Construction ERP manages employees, projects, tasks, working hours, documents and reports etc.
 
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738341615_c86ccf0fa12432408af2.webp">
+
 <b>Construction ERP has the following exciting features:</b>
 
 <ul>
@@ -20,5 +22,15 @@ This construction ERP software is made to simplify the implementation of Constru
 <li>Comment Report</li>
 <li>Working Hours Report</li>
 </ul>
-<b>More details and Download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/construction-erp/</b>
+
+More details and download project
+https://www.aspscriptsonline.com/product/asp.net-construction-project-management
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
